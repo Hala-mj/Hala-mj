@@ -4,9 +4,8 @@ I'm a **Computer Science graduate** from **Umm Al-Qura University** (Department 
 
 - 🎓 B.Sc. in Computer Science, Umm Al-Qura University
 - 🧠 Co-author of **"Sign Recognition in Multiple Sign Languages Using Neural Network Techniques"**, presented at the 2025 IEEE AIIT conference. It recognises Arabic, American, Indian and Indonesian sign-language alphabets with YOLOv10 and VGG-19. ([DOI](https://doi.org/10.1109/AIIT63112.2025.11082856))
-- 🏥 Summer training at Medical Fakeeh, where I built front-end and back-end features for healthcare IT systems
 - 📊 Studying for a **Data Analysis & Business Intelligence Diploma** at IMP (expected Dec 2026)
-- 💡 Interests: AI & computer vision, gamified and educational apps, full-stack web development, and computer graphics
+- 💡 Interests: Data, AI & computer vision, gamified and educational apps, full-stack web development, and computer graphics
 
 ## 🛠️ Skills & Tools
 
@@ -61,4 +60,4 @@ Projects from my **Data Analysis & Business Intelligence Diploma** at **IMP** (e
 ## 📫 Contact
 
 - ✉️ Email: [mj.halajalal@gmail.com](mailto:mj.halajalal@gmail.com)
-- 💼 Open to opportunities in software development and AI
+- 💼 Open to new opportunities in data
