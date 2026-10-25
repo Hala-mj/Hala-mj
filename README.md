@@ -1,14 +1,20 @@
 # Hi, I'm Hala Jalal 👋
 
-I'm a **Computer Science graduate** from **Umm Al-Qura University** (Department of Computer Science & Artificial Intelligence). I like building software that is useful to real people: apps that help children grow good values, tools for hospital workflows, and AI that makes communication more accessible.
+I'm a **Data Analyst** studying for a **Data Analysis & Business Intelligence Diploma** at **IMP** (expected Dec 2026), and a **Computer Science graduate** from **Umm Al-Qura University**. I turn raw data into clear dashboards and insights with Power BI, Excel, SQL and Python.
 
-- 🎓 B.Sc. in Computer Science, Umm Al-Qura University
+- 📊 Data Analysis & BI Diploma, IMP (expected Dec 2026)
+- 🎓 B.Sc. in Computer Science, Umm Al-Qura University (Department of Computer Science & Artificial Intelligence)
 - 🧠 Co-author of **"Sign Recognition in Multiple Sign Languages Using Neural Network Techniques"**, presented at the 2025 IEEE AIIT conference. It recognises Arabic, American, Indian and Indonesian sign-language alphabets with YOLOv10 and VGG-19. ([DOI](https://doi.org/10.1109/AIIT63112.2025.11082856))
-- 📊 Studying for a **Data Analysis & Business Intelligence Diploma** at IMP (expected Dec 2026)
-- 💡 Interests: Data, AI & computer vision, gamified and educational apps, full-stack web development, and computer graphics
+- 💡 Interests: Data analytics & BI, dashboards and reporting, AI & computer vision, and software development
 
 ## 🛠️ Skills & Tools
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
@@ -17,17 +23,23 @@ I'm a **Computer Science graduate** from **Umm Al-Qura University** (Department 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLOv10-111F68?style=flat&logo=yolo&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=prolog&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+
+## 📊 Data Analytics & BI
+
+Projects from my **Data Analysis & Business Intelligence Diploma** at **IMP** (expected Dec 2026):
+
+| Project | Description | Tools |
+|---|---|---|
+| [**Food Mart Retail Excel**](https://github.com/Hala-mj/food-mart-retail-excel) | Retail sales analysis of customers, stores, sales (2017–2018) and returns | Excel · Power Query · PivotTables |
+| [**HR Employee Survey**](https://github.com/Hala-mj/hr-employee-survey-powerbi) | Power BI report: Survey Overview & Completion, Survey Responses & Insights | Power BI · Excel |
+| [**UK Rail / Ticket BI (Final Project)**](https://github.com/Hala-mj/bi-final-project-powerbi) | Final Power BI project: ticket trends, pricing, passenger behavior, journey performance, refunds, railcards, stations & insights | Power BI |
 
 ## ⭐ Featured Projects
 
@@ -45,17 +57,6 @@ I'm a **Computer Science graduate** from **Umm Al-Qura University** (Department 
 | [**Chocolate Factory System**](https://github.com/Hala-mj/chocolate-factory-system) | Console inventory and orders system built on a binary search tree and linked lists | Java |
 | [**Ramadan Charity Organization**](https://github.com/Hala-mj/Ramadan-charity-organization-) | Database project that manages donor, recipient and employee data, with SQL queries for donation tracking | MySQL · SQL |
 | [**Fruit Identification Game**](https://github.com/Hala-mj/Fruit-identification-game) | Simple expert system that identifies fruits and vegetables through yes/no questions | Prolog |
-
-
-## 📊 Data Analytics & BI
-
-Projects from my **Data Analysis & Business Intelligence Diploma** at **IMP** (expected Dec 2026):
-
-| Project | Description | Tools |
-|---|---|---|
-| [**Food Mart Retail Excel**](https://github.com/Hala-mj/food-mart-retail-excel) | Retail sales analysis of customers, stores, sales (2017–2018) and returns | Excel · Power Query · PivotTables |
-| [**HR Employee Survey**](https://github.com/Hala-mj/hr-employee-survey-powerbi) | Power BI report: Survey Overview & Completion, Survey Responses & Insights | Power BI · Excel |
-| [**UK Rail / Ticket BI (Final Project)**](https://github.com/Hala-mj/bi-final-project-powerbi) | Final Power BI project: ticket trends, pricing, passenger behavior, journey performance, refunds, railcards, stations & insights | Power BI |
 
 ## 📫 Contact
 
